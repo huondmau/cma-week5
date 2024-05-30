@@ -1,0 +1,6 @@
+
+
+testfun <- function() {
+}
+
+testfun()
